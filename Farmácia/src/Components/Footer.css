@@ -1,0 +1,27 @@
+.aa{
+    background-color: #ef97a4;
+    margin-top: 9%;
+    display: flex;
+    margin-right: -1%;
+    padding: 1%;
+    margin-left: -1%;
+    margin-bottom: -1%;
+}
+
+img{
+    width: 15%;
+    margin-right: 4%;
+}
+
+.footer{
+    font-family: "Poppins", sans-serif;
+    width: 1000px;
+    font-size: 90%;
+    color: #ffff;
+    margin-left: 4%;
+    margin-top: 1%;
+}
+
+h3{
+    color: #e23e57;
+}

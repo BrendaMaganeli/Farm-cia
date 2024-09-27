@@ -4,7 +4,7 @@
     justify-content: space-around;
     align-items: center;
 }
-img{
+.img-Nav{
     height: 10%;
     width: 6%;
 }
@@ -15,12 +15,13 @@ label{
     justify-content: center;
     margin-left: 10%;
     color:#e23e57 ;
+    font-family: "Poppins", sans-serif;
 }
 label:hover{
     color: #ce1f3a;
     transform: scale(1.1);
 }
-button{
+.enter{
     background-color: #ce1f3a;
     color: aliceblue;
     border: #e23e57;
@@ -29,6 +30,10 @@ button{
     padding: 0.4%;
     font-size: larger;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+button:hover{
+    transform: scale(1.1);
+    background-color: #e23e57;
 }
 
 

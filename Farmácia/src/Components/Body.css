@@ -1,0 +1,73 @@
+.Img{
+    width: 40%;
+    align-items: flex-end;
+    justify-content: end;
+    margin: auto;
+    margin-top: 7%;
+    margin-right: -2px;
+  }
+  
+  .divs-principais{
+    display: flex;
+  }
+  
+  .Márcia{
+    margin-top: 10%;
+    margin-left: 5%;
+  }
+  h1{
+    width: 700px;
+    font-size: 340%;
+    color: #ce1f3a;
+    
+  }
+  h2{
+    margin-top: 5%;
+    width: 700px;
+    font-size: 300%;
+    color: #ce1f3a;
+    margin-left: 4%;
+  }
+  .titulo{
+    font-family: "Poppins", sans-serif;
+    width: 500px;
+    font-size: 170%;
+    margin-left: -0.2%;
+    color: #e96a7e;
+  }
+  
+  button{
+    background-color: #ce1f3a;
+    color: aliceblue;
+    border: #e23e57;
+    border-radius: 20px;
+    width: 20%;
+    padding: 2%;
+    font-size: larger;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  }
+  
+  .placa{
+    width: 30%;
+  }
+  .Promocionais{
+    margin-top: 0.7%;
+    width: 90%;
+    margin-left: 4%;
+    display: flex;
+    padding: 0.8%;
+  }
+  
+  .camiseta{
+    width: 40%;
+    border-radius: 6%;
+  }
+  
+  .promocao{
+    font-family: "Poppins", sans-serif;
+    width: 1000px;
+    font-size: 150%;
+    color: #e96a7e;
+    margin-left: 4%;
+  }
+
