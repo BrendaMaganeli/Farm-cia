@@ -4,7 +4,7 @@ import logo from '../assets/logo.png'
 function Footer() {
   return (
     <div className='aa'>
-        <img src={logo} alt="" />
+        <img src={logo} alt="" className='logo'/>
         <div className='footer'>
         <h3>Serviços</h3>
         <p >Politica de Privacidade</p>

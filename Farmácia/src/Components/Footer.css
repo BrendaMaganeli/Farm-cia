@@ -8,15 +8,17 @@
     margin-bottom: -1%;
 }
 
-img{
+.logo{
     width: 15%;
+    height: 5%;
+    margin-top: 2%;
     margin-right: 4%;
 }
 
 .footer{
     font-family: "Poppins", sans-serif;
     width: 1000px;
-    font-size: 110%;
+    font-size: 90%;
     color: #ffff;
     margin-left: 4%;
     margin-top: 1%;
@@ -24,4 +26,5 @@ img{
 
 h3{
     color: #e23e57;
+    font-size: 170%;
 }

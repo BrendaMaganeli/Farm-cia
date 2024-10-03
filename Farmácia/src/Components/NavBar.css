@@ -6,6 +6,8 @@
 }
 .img-Nav{
     height: 10%;
+    margin-right: -2%;
+    margin-top: -0.1%;
     width: 6%;
 }
 label{
@@ -13,7 +15,7 @@ label{
     font-size:22px;
     align-items: center;
     justify-content: center;
-    margin-left: 10%;
+    margin-left: 3%;
     color:#e23e57 ;
     font-family: "Poppins", sans-serif;
 }
@@ -34,6 +36,10 @@ label:hover{
 button:hover{
     transform: scale(1.1);
     background-color: #e23e57;
+}
+
+:link{
+    text-decoration: none;
 }
 
 

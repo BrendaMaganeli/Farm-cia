@@ -2,9 +2,12 @@ import React from 'react'
 import logoMaior from '../assets/logoMaior.png'
 import camisetas from '../assets/camisetas.png'
 import cartao from '../assets/cartoes.png'
-import './Body.css'
-function Body() {
+import './home.css'
+import Footer from '../Components/Footer'
+
+function Home() {
   return (
+    <div>
     <div>
     <div className='divs-principais'>
     <div className='Márcia'>
@@ -26,7 +29,8 @@ function Body() {
 
     </div>
     </div>
+    </div>
   )
 }
 
-export default Body
+export default Home

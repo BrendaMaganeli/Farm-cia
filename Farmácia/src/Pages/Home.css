@@ -64,10 +64,10 @@
   }
   
   .promocao{
+    margin-left: 2px;
     font-family: "Poppins", sans-serif;
-    width: 1000px;
+    width: 800px;
     font-size: 150%;
     color: #e96a7e;
-    margin-left: 4%;
+    margin-top: 4%;
   }
-
