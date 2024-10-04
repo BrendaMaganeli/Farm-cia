@@ -2,8 +2,8 @@ import React from 'react'
 import logoMaior from '../assets/logoMaior.png'
 import camisetas from '../assets/camisetas.png'
 import cartao from '../assets/cartoes.png'
-import './home.css'
-import Footer from '../Components/Footer'
+import './Home.css'
+
 
 function Home() {
   return (
